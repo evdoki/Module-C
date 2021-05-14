@@ -1,7 +1,5 @@
 # <p align="center"> РАБОТА С МАТРИЦАМИ </p>
-![GitHub repo size](https://img.shields.io/github/repo-size/PoKoEv-matrix/Module-C?color=green&label=Used%20Memory&style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/![GitHub repo size](https://img.shields.io/github/repo-size/PoKoEv-matrix/Module-C?color=green&label=Used%20Memory&style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/EkaterinaKostyra/PoKoEv?label=Python&logo=GitHub) ![GitHub watchers](https://img.shields.io/github/watchers/EkaterinaKostyra/PoKoEv?logoColor=blue&style=social)
-?label=Python&logo=GitHub) ![GitHub watchers](https://img.shields.io/github/watchers/![GitHub repo size](https://img.shields.io/github/repo-size/PoKoEv-matrix/Module-C?color=green&label=Used%20Memory&style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/EkaterinaKostyra/PoKoEv?label=Python&logo=GitHub) ![GitHub watchers](https://img.shields.io/github/watchers/EkaterinaKostyra/PoKoEv?logoColor=blue&style=social)
-?logoColor=blue&style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/PoKoEv-matrix/Module-C?color=green&label=Used%20Memory&style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/PoKoEv-matrix/Module-C?label=Python&logo=GitHub) ![GitHub watchers](https://img.shields.io/github/watchers/PoKoEv-matrix/Module-C?logoColor=blue&style=social)
 
 ## <p align="center"> Структура </p>
 
