@@ -7,7 +7,7 @@
 Задачи проекта:
 Понять, как обрабатывать данные с Python на языке C и обратно их выводить
 Написать 6 функций для модуля
-Создать и оформить Github (1RR00g1RSMw.jpg)
+Создать и оформить Github (https://github.com/PoKoEv-matrix/Module-C/blob/main/1RR00g1RSMw.jpg)
 
 
 ## <p align="center"> Актуальность </p>
